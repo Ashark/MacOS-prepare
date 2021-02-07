@@ -8,3 +8,7 @@ brew cask install keycastr
 To disable Safari from being default web browser:
 
 Apple (Start) -> System Preferences -> Genaral -> Default web browser -> Google Chrome
+
+# Final Cut
+## Sound Effects
+There are free sound effects for fcpx from apple. To download, go to Final Cut Pro -> Download Additional Content -> Final Cut Pro Supplemental Content.
