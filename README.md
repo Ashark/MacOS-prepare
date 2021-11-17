@@ -36,6 +36,12 @@ TODO Make a preset file for this repository?
 
 0x03 - sigint
 
+# Close apps when closing window
+
+To fix macos behavior of minimizing on close, install RedQuits. Make sure you go to System Settings -> Security and Privacy -> go to Privacy tab. On Privacy tab choose Accessibility, scroll down the list and enable RedQuits checkbox.
+
+To check how it works, download vlc, open it. When you enable RedQuits (open it, check the checkbox in its window saying to activate it), then when you close vlc, you will see that in dock there is no a small dot under vlc entry.
+
 # Final Cut
 ## Sound Effects
 There are free sound effects for fcpx from apple. To download, go to Final Cut Pro -> Download Additional Content -> Final Cut Pro Supplemental Content.
