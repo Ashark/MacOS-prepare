@@ -43,6 +43,8 @@ To check how it works, download vlc, open it. When you enable RedQuits (open it,
 
 It works in macos Catalina 10.15.7.
 
+It for some reason does not work with some applications. Tested with vlc, keynotes - it works as expected. But with vivaldi, it just does not. Vivaldi's icon still has dot under it after closing its window.
+
 # Final Cut
 ## Sound Effects
 There are free sound effects for fcpx from apple. To download, go to Final Cut Pro -> Download Additional Content -> Final Cut Pro Supplemental Content.
