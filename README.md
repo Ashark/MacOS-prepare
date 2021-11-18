@@ -4,9 +4,8 @@
 brew cask install keycastr
 ```
 
-For some reason it stopped working in its "Svelte" variant. It is in KeyCastr 0.9.11 and macos 10.15.7.
-
-As an alternative, I used **KeyDrawer**. It is donationware and until paid, it shows annoying "Demo" text on each button. But it works at least. Found about it here: https://superuser.com/a/1620324
+For some reason it stopped working in its Svelte variant. It is in KeyCastr 0.9.11 and macos 10.15.7. As an alternative, I used **KeyDrawer**. It is donationware and until paid, it shows annoying "Demo" text on each button. But it works at least. Found about it here: https://superuser.com/a/1620324
+~~This was mistaken text~~
 
 # Default browser
 To disable Safari from being default web browser:
